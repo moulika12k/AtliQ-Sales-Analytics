@@ -16,12 +16,14 @@ This report presents the net sales performance of AtliQ Hardwares' customers acr
 
 ![Image](https://github.com/user-attachments/assets/cee2273a-a4cb-4ecd-9a5c-8a471214f15d)
 
+---
 ### 🌍 Market Vs Target Performance ###
 
 This report compares AtliQ Hardwares’ actual net sales in 2021 with their respective market targets. It highlights sales trends from 2019 to 2021 while emphasizing the percentage deviation from the 2021 targets. This helps reveal performance gaps and areas that may need strategic attention.
 
 ![Image](https://github.com/user-attachments/assets/8ef3a0b2-bdc0-463c-b0f5-3418ee166de0)
 
+---
 ### 📈 Profit and Loss Overview (By Fiscal Years) ###
 
 This report summarizes the financial performance of AtliQ Hardwares from 2019 to 2021. It covers key metrics including Net Sales, Cost of Goods Sold (COGS), Gross Margin, and GM%. A comparison of 2021 vs 2020 provides a quick view of financial shifts over time, enhanced with conditional formatting for clarity.
