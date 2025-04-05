@@ -9,4 +9,5 @@ This repository contains three Excel-based data analysis projects built using re
 ---
 The first report in the project aims on analyzing **customer net sales performance**.
 
-(![Image](https://github.com/user-attachments/assets/48075df2-2d24-4e4f-b626-c4885d0460e3)
+(![Image](https://github.com/user-attachments/assets/48075df2-2d24-4e4f-b626-c4885d0460e3) ![Image](https://github.com/user-attachments/assets/199ae125-cb9b-49b4-b4d2-0a242a75b755)
+
