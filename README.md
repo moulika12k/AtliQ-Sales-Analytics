@@ -1,29 +1,30 @@
 # AtliQ-Hardware-Sales-Analytics
-This repository contains three Excel-based data analysis projects built using real-time data from a hardware startup. The project provided exposure to Excel features as follows: 
+This repository contains three Excel-based data analysis projects using real-time data from a hardware startup, AtliQ Hardwares. The project explores a wide range of Excel features and builds strong foundational skills in:
 + Conditional Formatting
 + Power Pivot
 + Power Query
-+ Basics of Data Analysis Expressions (DAX)
-+ ETL
++Basics of Data Analysis Expressions (DAX)
++ ETL (Extract, Transform, Load)
 + Report Beautification
-  
-📂 CSV files are included for reference and replication of the analysis
+
+📂 CSV files are included for reference and to replicate the analysis independently.
 
 ---
-### Customer Net sales Performance ###
+### 📊 Customer Net Sales Performance ###
 
-This report presents the net sales performance of AtliQ Hardwares' customers over three years — 2019, 2020, and 2021. It summarizes sales growth for each customer and highlights year-over-year performance, especially the change from 2020 to 2021.
+This report presents the net sales performance of AtliQ Hardwares' customers across three fiscal years — 2019, 2020, and 2021. It captures the sales trend for each customer, emphasizing the year-over-year growth and highlighting the change between 2020 and 2021.
 
 ![Image](https://github.com/user-attachments/assets/cee2273a-a4cb-4ecd-9a5c-8a471214f15d)
 
-### Market Vs Target ###
+### 🌍 Market Vs Target Performance ###
 
-This report highlights the comparison between AtliQ Hardwares’ actual net sales in 2021 and their respective targets across global markets. It shows sales trends from 2019 to 2021 and emphasizes the percentage shortfall or surplus against targets in 2021, helping identify gaps in market performance and opportunities for strategic improvement.
+This report compares AtliQ Hardwares’ actual net sales in 2021 with their respective market targets. It highlights sales trends from 2019 to 2021 while emphasizing the percentage deviation from the 2021 targets. This helps reveal performance gaps and areas that may need strategic attention.
 
 ![Image](https://github.com/user-attachments/assets/8ef3a0b2-bdc0-463c-b0f5-3418ee166de0)
 
-### Profit and Loss % Filtered By Fiscal years ###
-This report showcases the financial performance of AtliQ Hardwares over three fiscal years — 2019, 2020, and 2021. Key metrics such as Net Sales, Cost of Goods Sold (COGS), Gross Margin, and Gross Margin Percentage (GM%) are presented with a year-over-year comparison (2021 vs 2020) to highlight major trends and shifts. Conditional formatting has been applied for easy interpretation of the changes.
+### 📈 Profit and Loss Overview (By Fiscal Years) ###
+
+This report summarizes the financial performance of AtliQ Hardwares from 2019 to 2021. It covers key metrics including Net Sales, Cost of Goods Sold (COGS), Gross Margin, and GM%. A comparison of 2021 vs 2020 provides a quick view of financial shifts over time, enhanced with conditional formatting for clarity.
 
 ![Image](https://github.com/user-attachments/assets/3b6d02f0-9878-49ff-92ce-404aa6eb7f0a)
 
