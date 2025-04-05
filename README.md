@@ -1,5 +1,5 @@
 # AtliQ-Hardware-Sales-Analytics
-This repository contains three Excel-based data analysis projects using real-time data from a hardware startup, AtliQ Hardwares. The project explores a wide range of Excel features and builds strong foundational skills in:
+This repository contains three Excel-based data analysis projects using data from AtliQ Hardwares. The project explores a wide range of Excel features and builds strong foundational skills in:
 + Conditional Formatting
 + Power Pivot
 + Power Query
