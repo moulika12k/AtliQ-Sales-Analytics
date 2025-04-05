@@ -3,7 +3,7 @@ This repository contains three Excel-based data analysis projects using data fro
 + Conditional Formatting
 + Power Pivot
 + Power Query
-+Basics of Data Analysis Expressions (DAX)
++ Basics of Data Analysis Expressions (DAX)
 + ETL (Extract, Transform, Load)
 + Report Beautification
 
