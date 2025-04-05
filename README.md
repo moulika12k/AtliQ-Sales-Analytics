@@ -5,7 +5,7 @@ This repository contains three Excel-based data analysis projects built using re
 + Power Query
 + Basics of Data Analysis Expressions (DAX)
 + ETL
-+ Report Beautification  
++ Report Beautification<br>
 📂 CSV files are included for reference and replication of the analysis
 ---
 ### Customer Net sales Performance ###
