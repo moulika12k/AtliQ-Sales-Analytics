@@ -30,3 +30,4 @@ This report summarizes the financial performance of AtliQ Hardwares from 2019 to
 
 ![Image](https://github.com/user-attachments/assets/3b6d02f0-9878-49ff-92ce-404aa6eb7f0a)
 
+---
