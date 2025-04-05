@@ -12,9 +12,9 @@ This repository contains three Excel-based data analysis projects built using re
 ---
 ### Customer Net sales Performance ###
 
-![Image](https://github.com/user-attachments/assets/cee2273a-a4cb-4ecd-9a5c-8a471214f15d)
-
 This report presents the net sales performance of AtliQ Hardwares' customers over three years — 2019, 2020, and 2021. It summarizes sales growth for each customer and highlights year-over-year performance, especially the change from 2020 to 2021.
+
+![Image](https://github.com/user-attachments/assets/cee2273a-a4cb-4ecd-9a5c-8a471214f15d)
 
 ### Market Vs Target ###
 
